@@ -11,6 +11,7 @@
         Thank you for your purchase! Your order will be shipped within 2–3 business days.
         You will receive a confirmation email with tracking information shortly.
     </string>
+    <!--Information local -->
     <string name="order_summary">Order Summary</string>
     <string name="order_number_title">Order Number</string>
     <string name="order_number_value">#123456</string>
@@ -18,4 +19,17 @@
     <string name="order_total_value">$75.00</string>
     <string name="order_address_title">Shipping Address</string>
     <string name="order_address_value">123 Medina Street,\nMarrakech, Morocco</string>
+    <string name="continue_shopping">Continue Shopping</string>
+
+    <!-- Failed Order Page -->
+    <string name="failed_order_title">Oops! Something went wrong</string>
+    <string name="failed_order_description">We encountered an issue processing your order. Please review your details and try again.</string>
+    <string name="failed_order_button">Try Again</string>
+    <string name="failed_order_button_contact">Contact Support</string>
+
+
+    <!--Barre inférieure -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_profile">Profile</string>
 </resources>
